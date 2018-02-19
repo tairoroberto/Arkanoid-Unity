@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: dfd878c2ef83df846bdd9da07705f55f
+timeCreated: 1517866532
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arkanoid_0
+    21300002: arkanoid_1
+    21300004: arkanoid_2
+    21300006: arkanoid_3
+    21300008: arkanoid_4
+    21300010: arkanoid_5
+    21300012: arkanoid_6
+    21300014: arkanoid_7
+    21300016: arkanoid_8
+    21300018: arkanoid_9
+    21300020: arkanoid_10
+    21300022: arkanoid_11
+    21300024: arkanoid_12
+    21300026: arkanoid_13
+    21300028: arkanoid_14
+    21300030: arkanoid_15
+    21300032: arkanoid_16
+    21300034: arkanoid_17
+    21300036: arkanoid_18
+    21300038: arkanoid_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arkanoid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 400
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 119
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 136
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arkanoid_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -200, y: -174}
+      - {x: -200, y: -200}
+      - {x: -86, y: -200}
+      - {x: -82, y: -195}
+      - {x: -82, y: -174}
+    - - {x: -75, y: -174}
+      - {x: -78, y: -180}
+      - {x: -78, y: -200}
+      - {x: -64, y: -200}
+      - {x: -60, y: -196}
+      - {x: -60, y: -176}
+      - {x: -66, y: -174}
+    - - {x: -48, y: -174}
+      - {x: -52, y: -179}
+      - {x: -52, y: -199}
+      - {x: -50, y: -200}
+      - {x: -37, y: -200}
+      - {x: -37, y: -177}
+      - {x: -42, y: -174}
+    - - {x: -27, y: -174}
+      - {x: -27, y: -197}
+      - {x: -26, y: -200}
+      - {x: -15, y: -200}
+      - {x: -14, y: -199}
+      - {x: -14, y: -180}
+      - {x: -16, y: -174}
+    - - {x: 8, y: -174}
+      - {x: 0, y: -174}
+      - {x: -2, y: -175}
+      - {x: -2, y: -197}
+      - {x: 1, y: -200}
+      - {x: 8, y: -200}
+      - {x: 10, y: -195}
+      - {x: 10, y: -176}
+    - - {x: 25, y: -174}
+      - {x: 22, y: -176}
+      - {x: 22, y: -197}
+      - {x: 23, y: -200}
+      - {x: 33, y: -200}
+      - {x: 34, y: -195}
+      - {x: 34, y: -178}
+      - {x: 31, y: -174}
+    - - {x: 55, y: -174}
+      - {x: 47, y: -174}
+      - {x: 45, y: -176}
+      - {x: 45, y: -197}
+      - {x: 46, y: -200}
+      - {x: 60, y: -200}
+      - {x: 60, y: -176}
+      - {x: 59, y: -175}
+    - - {x: 72, y: -174}
+      - {x: 67, y: -181}
+      - {x: 67, y: -195}
+      - {x: 70, y: -200}
+      - {x: 85, y: -200}
+      - {x: 86, y: -197}
+      - {x: 86, y: -177}
+      - {x: 82, y: -174}
+    - - {x: 97, y: -174}
+      - {x: 90, y: -178}
+      - {x: 90, y: -195}
+      - {x: 94, y: -200}
+      - {x: 110, y: -200}
+      - {x: 112, y: -199}
+      - {x: 112, y: -179}
+      - {x: 110, y: -174}
+    - - {x: 118, y: -174}
+      - {x: 112, y: -178}
+      - {x: 112, y: -195}
+      - {x: 113, y: -200}
+      - {x: 184, y: -200}
+      - {x: 186, y: -198}
+      - {x: 186, y: -180}
+      - {x: 184, y: -174}
+    - - {x: 0, y: -78}
+      - {x: -2, y: -80}
+      - {x: -2, y: -160}
+      - {x: 0, y: -162}
+      - {x: 80, y: -162}
+      - {x: 82, y: -160}
+      - {x: 82, y: -80}
+      - {x: 80, y: -78}
+    - - {x: 118, y: -80}
+      - {x: 118, y: -160}
+      - {x: 120, y: -162}
+      - {x: 200, y: -162}
+      - {x: 200, y: -78}
+      - {x: 120, y: -78}
+    - - {x: -200, y: -78}
+      - {x: -200, y: -111}
+      - {x: -195, y: -115}
+      - {x: -72, y: -115}
+      - {x: -62, y: -114}
+      - {x: -62, y: -85}
+      - {x: -70, y: -78}
+    - - {x: -197, y: -38}
+      - {x: -200, y: -40}
+      - {x: -200, y: -70}
+      - {x: -199, y: -73}
+      - {x: -197, y: -75}
+      - {x: -88, y: -75}
+      - {x: -79, y: -74}
+      - {x: -79, y: -46}
+      - {x: -87, y: -38}
+    - - {x: -36, y: -38}
+      - {x: -42, y: -40}
+      - {x: -42, y: -60}
+      - {x: -36, y: -66}
+      - {x: -17, y: -66}
+      - {x: -14, y: -59}
+      - {x: -14, y: -39}
+      - {x: -15, y: -38}
+    - - {x: 197, y: 200}
+      - {x: -200, y: 200}
+      - {x: -200, y: -28}
+      - {x: -187, y: -37}
+      - {x: -104, y: -35}
+      - {x: -93, y: -32}
+      - {x: -91, y: -7}
+      - {x: -101, y: 0}
+      - {x: -13, y: 42}
+      - {x: 29, y: 45}
+      - {x: -6, y: 42}
+      - {x: -2, y: -42}
+      - {x: 200, y: -42}
+      - {x: 200, y: 199}
+    - - {x: -40, y: 2}
+      - {x: -42, y: -3}
+      - {x: -42, y: -18}
+      - {x: -25, y: -18}
+      - {x: -22, y: -17}
+      - {x: -22, y: -3}
+      - {x: -28, y: 2}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
